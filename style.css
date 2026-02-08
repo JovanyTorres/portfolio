@@ -5,4 +5,5 @@ h1 { color: #38bdf8; margin-bottom: 5px; }
 h2 { border-bottom: 2px solid #38bdf8; display: inline-block; margin-top: 30px; color: #38bdf8; }
 .item { margin-top: 15px; }
 .skills-grid span { background: #334155; padding: 5px 15px; border-radius: 20px; margin-right: 10px; font-size: 0.9em; }
+
 footer { margin-top: 40px; font-size: 0.9em; color: #94a3b8; }
